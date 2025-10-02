@@ -1,3 +1,5 @@
+https://kpatelboka646-prog.github.io/api-landing-page3.github.io/
+
 API Studio — Version 6 (light-only)
 
 Files:
@@ -25,3 +27,4 @@ How to use:
 If you want, I can now:
 - Generate the 8 subpages in the same style (ready-to-wire).
 - Export a ZIP package with placeholder logo/images.
+
